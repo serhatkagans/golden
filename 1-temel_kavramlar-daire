@@ -1,0 +1,3 @@
+daire_yari_cap=6
+pi=3.14
+alan=(daire_yari_cap*daire_yari_cap)*pi
